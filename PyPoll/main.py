@@ -49,3 +49,7 @@ output = (
         f"-----------------------------------\n"
         )
 print (output)
+# write results to a text file 
+with open (electionResults,"w") as textfile:
+        textfile.write(output)
+
