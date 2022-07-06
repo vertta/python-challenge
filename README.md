@@ -1,8 +1,6 @@
-#PYTHON CHALLENGE
+# PYTHON CHALLENGE!
 
-# PyBank Challenge
-
-
+# PyBank 
 
 In this homework assignment, we were asked to create a Python script that analyzes the records to calculate each of the following:
 * The total number of months included in the dataset
@@ -16,7 +14,7 @@ In this homework assignment, we were asked to create a Python script that analyz
 
 ![PyBankChallenge](https://user-images.githubusercontent.com/75756974/177438026-0495537d-b263-45c4-b0d4-51d6ea1961d9.gif)
 
-# PyPoll Challenge
+# PyPoll 
 
 In this homework assignment we were asked to create a Python script that analyzes the votes and calculates each of the following:
 * The total number of votes cast
