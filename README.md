@@ -14,14 +14,14 @@ In this homework assignment, we were asked to create a Python script that analyz
 
 ## Results of PyBank Analysis
 
-![PyBankChallenge](https://user-images.githubusercontent.com/75756974/177266151-6a4d40e0-1e56-4ca3-90de-d44d91e2c3c3.gif)
-
+![PyBankChallenge](https://user-images.githubusercontent.com/75756974/177438026-0495537d-b263-45c4-b0d4-51d6ea1961d9.gif)
 
 # PyPoll Challenge
 
 In this homework assignment we were asked to create a Python script that analyzes the votes and calculates each of the following:
 * The total number of votes cast
-* A complete list of candidates who received votes
+* A complete list of candidates who received votes![Uploading PyBankChallenge.gif…]()
+
 * The percentage of votes each candidate won
 * The total number of votes each candidate won
 * The winner of the election based on popular vote
