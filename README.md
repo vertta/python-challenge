@@ -26,5 +26,4 @@ In this homework assignment we were asked to create a Python script that analyze
 
 ## Results of PyPoll Analysis
 
-
 ![PyPollChallenge](https://user-images.githubusercontent.com/75756974/177437351-6a7d66ee-3caa-45db-8951-9bcd3cabdb49.gif)
